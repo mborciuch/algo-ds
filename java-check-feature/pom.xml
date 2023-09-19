@@ -10,7 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>rabbitmq</module>
+        <module>jackson-learning</module>
+        <module>java-locale</module>
+        <module>ocachecks</module>
     </modules>
-
-
 </project>

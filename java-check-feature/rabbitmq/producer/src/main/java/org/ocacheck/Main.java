@@ -1,4 +1,4 @@
-package org.example;
+package org.ocacheck;
 
 public class Main {
     public static void main(String[] args) {
